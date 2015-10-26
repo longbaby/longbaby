@@ -1,0 +1,13 @@
+卷 Work 的文件夹 PATH 列表
+卷序列号为 108B-13EB
+F:\配置管理\SVN\SVNFOLDER\DOC
+├─0.ProjectManagement
+├─1.Requirement&Analysis
+├─2.Design
+├─3.Development
+├─4.Deployment
+├─5.Testing
+├─6.Delivery
+├─7.Thirdparty
+├─8.WebOperation
+└─9.Reference
